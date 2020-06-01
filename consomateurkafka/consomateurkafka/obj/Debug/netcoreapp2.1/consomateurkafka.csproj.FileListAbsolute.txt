@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\bin\Debug\netcoreapp2.1\consomateurkafka.deps.json
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\bin\Debug\netcoreapp2.1\consomateurkafka.runtimeconfig.json
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\bin\Debug\netcoreapp2.1\consomateurkafka.runtimeconfig.dev.json
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\bin\Debug\netcoreapp2.1\consomateurkafka.dll
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\obj\Debug\netcoreapp2.1\consomateurkafka.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\obj\Debug\netcoreapp2.1\consomateurkafka.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\obj\Debug\netcoreapp2.1\consomateurkafka.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\obj\Debug\netcoreapp2.1\consomateurkafka.AssemblyInfo.cs
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\bin\Debug\netcoreapp2.1\consomateurkafka.pdb
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\obj\Debug\netcoreapp2.1\consomateurkafka.dll
+C:\Users\PC\source\repos\consomateurkafka\consomateurkafka\obj\Debug\netcoreapp2.1\consomateurkafka.pdb

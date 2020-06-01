@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\bin\Debug\netcoreapp2.1\producteurkafka.deps.json
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\bin\Debug\netcoreapp2.1\producteurkafka.runtimeconfig.json
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\bin\Debug\netcoreapp2.1\producteurkafka.runtimeconfig.dev.json
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\bin\Debug\netcoreapp2.1\producteurkafka.dll
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\obj\Debug\netcoreapp2.1\producteurkafka.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\obj\Debug\netcoreapp2.1\producteurkafka.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\obj\Debug\netcoreapp2.1\producteurkafka.AssemblyInfo.cs
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\obj\Debug\netcoreapp2.1\producteurkafka.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\bin\Debug\netcoreapp2.1\producteurkafka.pdb
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\obj\Debug\netcoreapp2.1\producteurkafka.dll
+C:\Users\PC\source\repos\producteurkafka\producteurkafka\obj\Debug\netcoreapp2.1\producteurkafka.pdb
